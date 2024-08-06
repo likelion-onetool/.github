@@ -23,6 +23,9 @@
 
 <div align="center">
 
+**PM : 정재민**  
+<img src="https://github.com/user-attachments/assets/3a67a314-cbb1-4d6e-952f-9d8247e7f3bf"><br/>https://blog.naver.com/onetool_1
+
 | **강인권** | **조형준** | **윤성원** | **이동훈** | **정다영** |
 | :------: |  :------: | :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/105264785?v=4" height=150 width=150> <br/> @tnqkr3494](https://github.com/tnqkr3494) | [<img src="https://avatars.githubusercontent.com/u/157940718?v=4" height=150 width=150> <br/> @chocheeko](https://github.com/chocheeko) | [<img src="https://avatars.githubusercontent.com/u/63222221?v=4" height=150 width=150> <br/> @mete0rfish](https://github.com/mete0rfish) | [<img src="https://avatars.githubusercontent.com/u/123933574?v=4" height=150 width=150> <br/> @LEEDONGH00N](https://github.com/LEEDONGH00N) | [<img src="https://avatars.githubusercontent.com/u/92675692?v=4" height=150 width=150> <br/> @day024](https://github.com/day024) |
