@@ -5,6 +5,8 @@
 
 - 배포 URL : http://www.onetool.co.kr
 (회원가입이 가능합니다.)
+- 프론트엔드 Repository : https://github.com/likelion-onetool/diabetes-frontend
+- 백엔드 Repository : https://github.com/likelion-onetool/diabetes-backend
 
 <br>
 
