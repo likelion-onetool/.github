@@ -43,7 +43,6 @@
 
 ## 2. 채택한 개발 기술과 브랜치 전략
 
-### React, Typescript, styled-component, framer-motion, react-router-dom, react-hook-form, react-query
 
 - React 
     - 컴포넌트화를 통해 추후 유지보수와 재사용성을 고려했습니다.
@@ -125,6 +124,7 @@
 ### 🐬이동훈
 
 - **기능**
+  장바구니, 주문, 결제
   
 - **그 외**
 
