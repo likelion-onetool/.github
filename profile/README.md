@@ -24,7 +24,7 @@
 <div align="center">
 
 **PM : 정재민**  
-<img src="https://github.com/user-attachments/assets/3a67a314-cbb1-4d6e-952f-9d8247e7f3bf"><br/>https://blog.naver.com/onetool_1
+<img src="https://github.com/user-attachments/assets/bba5aff0-2d3e-49d5-937a-5a9475bc09a5"><br/>https://blog.naver.com/onetool_1
 
 | **강인권** | **조형준** | **윤성원** | **이동훈** | **정다영** |
 | :------: |  :------: | :------: | :------: | :------: |
