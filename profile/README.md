@@ -71,8 +71,10 @@
 
 |역할|github|이름|담당|
 |---|---|---|---|
-|팀장|  | 정재민 ||
-|팀원| [<img src="https://avatars.githubusercontent.com/u/105264785?v=4" height=100 width=100>](https://github.com/tnqkr3494) | 강인권 | |
-|팀원| [<img src="https://avatars.githubusercontent.com/u/123933574?v=4" height=100 width=100>](https://github.com/LEEDONGH00N) | 이동훈 ||
-|팀원| [<img src="https://avatars.githubusercontent.com/u/63222221?v=4" height=100 width=100> ](https://github.com/mete0rfish)| 윤성원 | API 개발 <br/> DB 설계 및 구축 <br/> 인프라 및 CI/CD 설계 및 구축 <br/> 코드 리펙터링 |
-|팀원| [<img src="https://avatars.githubusercontent.com/u/92675692?v=4" height=100 width=100> ](https://github.com/day024) | 정다영 ||
+| 팀장 |  | 정재민 ||
+| 팀원 | [<img src="https://avatars.githubusercontent.com/u/105264785?v=4" height=100 width=100>](https://github.com/tnqkr3494) | 강인권 | |
+| 팀원 | [<img src="https://avatars.githubusercontent.com/u/123933574?v=4" height=100 width=100>](https://github.com/LEEDONGH00N) | 이동훈 ||
+| 팀원 | [<img src="https://avatars.githubusercontent.com/u/63222221?v=4" height=100 width=100> ](https://github.com/mete0rfish)| 윤성원 | API 개발 <br/> DB 설계 및 구축 <br/> 인프라 및 CI/CD 설계 및 구축 <br/> 코드 리펙터링 |
+| 팀원 | [<img src="https://avatars.githubusercontent.com/u/92675692?v=4" height=100 width=100> ](https://github.com/day024) | 정다영 ||
+| 팀원 | [<img src="https://avatars.githubusercontent.com/u/164465431?v=4" height=100 width=100> ](https://github.com/PlusUltraCode) | 이동호 | 코드 리펙터링 |
+
