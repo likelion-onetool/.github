@@ -40,7 +40,7 @@
 
 | **요구 사항** | **선택지** | **기술 선택 이유** |
 | ----- | ------ | ----------- |
-| **💽RDB** | 1. MySQL <br/> 2. PostgreSQL <br/> 3. MariaDB <br/> 4. MongoDB <br/> 5. Redis | - 도면 목록 및 검색 최적화를 위해 인덱스, 캐시, 버퍼 풀 등의 성능 최적화 기능을 제공하는 MySQL 사용 <br/> - 결제 및 구매 내역와 같은 중요한 데이터를 위한 InnoDB의 ACID 트랜잭션 사용 <br/> - Redis의 인메모리 데이터 저장 방식으로 토큰 조회 및 삽입 성능 개선 <br/> - 인증 코드의 자동 삭제를 위한 Redis의 TTL 기능 사용 |
+| **💽데이터베이스** | 1. MySQL <br/> 2. PostgreSQL <br/> 3. MariaDB <br/> 4. MongoDB <br/> 5. Redis | - 도면 목록 및 검색 최적화를 위해 인덱스, 캐시, 버퍼 풀 등의 성능 최적화 기능을 제공하는 MySQL 사용 <br/> - 결제 및 구매 내역와 같은 중요한 데이터를 위한 InnoDB의 ACID 트랜잭션 사용 <br/> - Redis의 인메모리 데이터 저장 방식으로 토큰 조회 및 삽입 성능 개선 <br/> - 인증 코드의 자동 삭제를 위한 Redis의 TTL 기능 사용 |
 | **🖥️모니터링** | 1. Jmeter <br/> 2. Prometheus <br/> 3. AWS CloudWatch | - 설치 용이성과 비용적 장점을 가진 Prometheus 사용 <br/> - Expert 설치를 통한 풀링 방식으로 메트릭 수집이 용이 |
 | **🛠️CI/CD** | 1. Github Actions <br/> 2. Jenkins | - 별도의 서버 구축이 필요없는 Github Actions 사용 <br/> - YAML 기반 간편하고 쉬운 스크립트 작성 |
 
