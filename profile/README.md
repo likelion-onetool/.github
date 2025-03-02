@@ -47,7 +47,10 @@
 <!-- DB, 부하테스트, 모니터링, CICD, 검색기능개선(동적쿼리, 인덱스 등등) -->
 
 ## 아키텍처
-인프라
+
+![다이어그램-01 - redis drawio](https://github.com/user-attachments/assets/d7695b56-334a-4164-8452-50f9217d41fc)
+
+
 ## ERD, 유저 시나리오
 
 ### ERD
