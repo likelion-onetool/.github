@@ -48,7 +48,13 @@
 
 ## 아키텍처
 
+### 인프라 아키텍처
+
 ![다이어그램-01 - redis drawio](https://github.com/user-attachments/assets/d7695b56-334a-4164-8452-50f9217d41fc)
+
+### 레이어드 아키텍처
+
+![image](https://github.com/user-attachments/assets/1ffa3146-0f79-43b5-9278-6b8e69b80cec)
 
 
 ## ERD, 유저 시나리오
